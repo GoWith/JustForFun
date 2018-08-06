@@ -1,0 +1,6 @@
+
+[squid:S1118":Add a private constructor to hide the implicit public one.(¹ö«½ùÿÿÿÿ8ê¶§,
+hsquid:UselessImportCheck":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–şúÿÿÿÿ8ê¶§,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ ¸§,
+isquid:S2259"HA "NullPointerException" could be thrown; "annotation" is nullable here.(òŒãÔıÿÿÿÿ8ê¶§,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Œ‰å©8ê¶§,
