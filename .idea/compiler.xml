@@ -20,7 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="just-for-fun" target="1.9" />
+      <module name="just-for-fun" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

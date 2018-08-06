@@ -24,9 +24,9 @@ class FileLock {
     String lockFlag1 = "t";
     String lockFlag2 = "t";
     String lockFlag3 = "t";
-    File file1 = new File("/file1");
-    File file2 = new File("/file2");
-    File file3 = new File("/file3");
+    File file1 = new File("D:/file1");
+    File file2 = new File("D:/file2");
+    File file3 = new File("D:/file3");
 
 }
 
